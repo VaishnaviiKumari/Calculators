@@ -1,11 +1,12 @@
-.calculator{
+.Calculator{
   border : 0px solid rgb(7, 69, 69);
   width: 200px;
   border-radius: 5px;
 
-  display: flex;
-  /* align-items: center; */
-  justify-content: center;
+  margin: 30px;
+  box-shadow: rgba(240, 8, 82, 0.24) 0px 3px 8px;
+
+  padding-bottom: 10px;
 }
 
 

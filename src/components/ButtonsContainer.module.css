@@ -4,15 +4,17 @@
   justify-content: center;
   flex-wrap: wrap;
 
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;;
+  /* box-shadow: rgba(240, 8, 82, 0.24) 0px 3px 8px; */
 }
 
 .button{
   width: 45px;
   height: 45px;
   margin: 3px;
+  border: none;
+  box-shadow: rgba(24, 227, 41, 0.24) 0px 3px 8px;
 }
 .button:hover{
   cursor:pointer;
-  background-color: aquamarine;
+  background-color: rgb(135, 241, 96);
 }

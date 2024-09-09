@@ -4,9 +4,8 @@ import ButtonsContainer from "./components/ButtonsContainer";
 
 function App() {
   return (
-    <div className={styles.calculator}>
+    <div className={styles.Calculator}>
       <Display></Display>
-
       <ButtonsContainer></ButtonsContainer>
     </div>
   );
